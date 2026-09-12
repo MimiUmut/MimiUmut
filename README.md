@@ -1,4 +1,4 @@
-# Hi there, I'm Umut Bayri 👋
+#Umut Bayri 👋😊
 
 Applied Mathematician & Scientific Machine Learning (SciML) Researcher, passionate about modeling complex dynamic systems in biology and physics.
 
