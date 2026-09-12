@@ -15,18 +15,18 @@ Applied Mathematician & Scientific Machine Learning (SciML) Researcher, passiona
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Core Computing**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
 **Scientific Machine Learning & Deep Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![PINA](https://img.shields.io/badge/PINA-PyTorch_Physics_Informed-brightgreen?style=for-the-badge)
-![SciML Julia](https://img.shields.io/badge/SciML-Julia_Ecosystem-9558B2?style=for-the-badge)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![PINA](https://img.shields.io/badge/PINA-PyTorch_Physics_Informed-brightgreen?style=for-the-badge)](https://github.com/mathLab/PINA)
+[![SciML Julia](https://img.shields.io/badge/SciML-Julia_Ecosystem-9558B2?style=for-the-badge)](https://sciml.ai/)
 
 **Web & Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 
 ---
 
