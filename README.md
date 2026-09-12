@@ -1,6 +1,6 @@
 # Umut Bayri 👋😊
 
-Applied Mathematician & Scientific Machine Learning (SciML) Researcher, passionate about modeling complex dynamic systems in biology and physics.
+Applied Mathematician & Scientific Machine Learning (SciML) Researcher, passionate about modeling complex dynamic systems in biology, medicine and physics.
 
 ---
 
