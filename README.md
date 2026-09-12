@@ -35,21 +35,11 @@ Applied Mathematician & Scientific Machine Learning (SciML) Researcher, passiona
 | Domain | Key Focus |
 | :--- | :--- |
 | **Differential Equations** | Formulating and solving high-dimensional non-linear ODE/PDE systems |
-| **Bio-Math & Oncology** | Modeling cell dynamics, tumor growth, and treatment trajectories |
+| **Bio-Math & Oncology** | Modeling cell dynamics, population and disease dynamics, tumor growth, and treatment trajectories |
 | **SciML Paradigms** | Combining PyTorch PINA and Julia SciML for physics-constrained learning |
-
----
-
-### 📊 GitHub Stats
-
-![Umut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umuutbayri&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umuutbayri&layout=compact&theme=radial)
 
 ---
 
 ### 📫 Connect with Me
 
 - 📧 **Email**: [umuutbayri@gmail.com](mailto:umuutbayri@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/umutbayri](https://linkedin.com) *(Profil linkini güncelleyebilirsin)*
-
-> *"Mathematics is the language in which nature writes its laws."*
