@@ -13,6 +13,15 @@ Modeling complex dynamical systems in biology, medicine and physics.
 
 ---
 
+### 🗣️ Languages
+
+- 🇹🇷 **Turkish** — Native
+- 🇬🇧 **English** — Professional working proficiency
+- 📜 **Latin** — Reading (hobby)
+- 🕌 **Ottoman Turkish** — Reading (hobby)
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Core Computing**  
@@ -50,7 +59,7 @@ Modeling complex dynamical systems in biology, medicine and physics.
 ### 📫 Connect with Me
 
 - 📧 **Email**: [umuutbayri@gmail.com](mailto:umuutbayri@gmail.com)
-
+- 🔬 **ResearchGate**: [https://www.researchgate.net/profile/Umut-Bayri]
 ---
 
 <div align="center">
