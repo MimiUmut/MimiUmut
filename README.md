@@ -13,15 +13,6 @@ Modeling complex dynamical systems in biology, medicine and physics.
 
 ---
 
-### 🗣️ Languages
-
-- 🇹🇷 **Turkish** — Native
-- 🇬🇧 **English** — Professional working proficiency
-- 📜 **Latin** — Reading (hobby)
-- 🕌 **Ottoman Turkish** — Reading (hobby)
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Core Computing**  
@@ -43,6 +34,15 @@ Modeling complex dynamical systems in biology, medicine and physics.
 
 **GPU & High-Performance Computing**  
 [![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
+
+---
+
+### 🗣️ Languages
+
+- 🇹🇷 **Turkish** — Native
+- 🇬🇧 **English** — Professional working proficiency
+- 📜 **Latin** — Reading (hobby)
+- 🕌 **Ottoman Turkish** — Reading (hobby)
 
 ---
 
