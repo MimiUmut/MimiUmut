@@ -39,8 +39,9 @@ Modeling complex dynamical systems in biology, medicine and physics.
 
 ### 🗣️ Languages
 
-- 🇹🇷 **Turkish** — Native
-- 🇬🇧 **English** — Professional working proficiency
+- **Turkish** — Native
+- **English** — Professional working proficiency
+- **German**  — A1
 - 📜 **Latin** — Reading (hobby)
 - 🕌 **Ottoman Turkish** — Reading (hobby)
 
